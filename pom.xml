@@ -6,7 +6,11 @@
 
     <groupId>io.indextables</groupId>
     <artifactId>tantivy4java</artifactId>
-    <version>0.31.1</version>
+<<<<<<< HEAD
+    <version>0.31.2</version>
+=======
+    <version>0.31.2</version>
+>>>>>>> 468bd58 (Add Iceberg cheap snapshot probe (0.31.2))
     <packaging>jar</packaging>
 
     <name>Tantivy4Java Experimental</name>
